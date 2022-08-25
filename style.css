@@ -17,7 +17,8 @@ h1 {
 
 h2{
 
-    text-align: center
+    text-align: center;
+    color: rgb(228, 9, 9);
 }
 
 
@@ -52,3 +53,6 @@ p {
 
 }
 
+#vio{
+    font-size: 20px; text-align: center;
+}
