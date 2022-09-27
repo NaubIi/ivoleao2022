@@ -1,10 +1,21 @@
-h1 {
+
+
+body{
+    background: rgb(7, 11, 20)
+
+
+}
+
+
+
+
+    h1 {
     text-align: center;
     color: rgb(253, 0, 76);
 
-}
+    }
 
-p {
+    p {
     text-align: center;
     color: aliceblue;
-}
+    }
