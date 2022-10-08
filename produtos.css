@@ -7,13 +7,13 @@ body{
 }
 
 h1{
-text-align: center;
-color: rgb(253, 0, 76);
+    text-align: center;
+    color: rgb(253, 0, 76);
 }
 
 p{
-text-align: center;
-color: aliceblue;
+    text-align: center;
+    color: aliceblue;
 }
 
 li{
@@ -34,7 +34,6 @@ nav{
     width: 940px;
     margin: 0 auto;
 }
-
 
 nav li{
     display: inline;
