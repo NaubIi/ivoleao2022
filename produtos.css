@@ -92,3 +92,13 @@ nav a:hover{
         margin-top: 10px;
 
 }
+
+footer{
+    text-align: center;
+    padding: 40px 0;
+}
+
+.copyright{
+    color: rgb(247, 247, 247);
+    font-size: 14px;
+}
