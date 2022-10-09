@@ -21,7 +21,7 @@ li{
 }
 
  header{
-    background: rgb(83, 21, 99)
+    background: rgb(253, 0, 76)
 }
 
 nav{
@@ -63,6 +63,8 @@ nav a{
         margin: 0 2%;
         padding: 30px 20px;
         box-sizing: border-box;
+        border: 3px solid rgb(253, 0, 76);
+        border-radius: 20px;
 }
 
 .Produtos h2{
