@@ -25,44 +25,49 @@ li{
 }
 
 nav{
-    position: absolute;
-    top: 70px;
-    right: 0;
+        position: absolute;
+        top: 70px;
+        right: 0;
 }
 .caixa{
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
+        position: relative;
+        width: 940px;
+         margin: 0 auto;
 }
 
 nav li{
-    display: inline;
-    margin: 0 0 0 15px;
+        display: inline;
+         margin: 0 0 0 15px;
 }
 
 nav a{
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: bold;
-    font-size: 20px;
-    text-decoration: none;
+        text-transform: uppercase;
+        color: #000000;
+         font-weight: bold;
+        font-size: 20px;
+        text-decoration: none;
 }
 
 .Produtos{
-width: 940px;
-margin: 0 auto;
-padding: 50px 0;
+        width: 940px;
+        margin: 0 auto;
+        padding: 50px 0;
 }
 
 
 .Produtos li{ 
-    display: inline-block;
-    text-align: center;
-    width: 40%;
-    vertical-align: top;
+        display: inline-block;
+        text-align: center;
+        width: 40%;
+        vertical-align: top;
 }
 
 .Produtos h2{
         font-size: 40px;
+        font-weight: bold;
+}
+
+.produto-preco{
+        font-size: 22px;
         font-weight: bold;
 }
