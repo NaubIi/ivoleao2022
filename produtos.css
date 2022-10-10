@@ -31,13 +31,13 @@ nav{
 }
 .caixa{
         position: relative;
-        width: 940px;
+        width: 1000px;
          margin: 0 auto;
 }
 
 nav li{
         display: inline;
-         margin: 0 0 0 15px;
+         
 }
 
 nav a{
@@ -101,4 +101,9 @@ footer{
 .copyright{
     color: rgb(247, 247, 247);
     font-size: 14px;
+}
+
+#logo{
+    width: 150px;
+    height: 150px;
 }
