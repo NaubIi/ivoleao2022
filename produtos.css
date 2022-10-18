@@ -75,7 +75,7 @@ nav a:hover{
 }
 
 .Produtos li:active{
-    border-color: rgb(236, 12, 12);
+    border-color: rgb(12, 210, 236);
 }
 .Produtos li:hover h2{
     font-size: 35px;
