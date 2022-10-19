@@ -2,7 +2,7 @@
 
 body{
     background: rgb(7, 11, 20);
-    background: url()
+    
 
 
 }
@@ -72,7 +72,7 @@ nav a:hover{
         border-radius: 20px;
 }
 .Produtos li:hover{
-    border-color: rgb(211, 88, 88);
+    border-color: rgb(255, 255, 255);
 }
 
 .Produtos li:active{
