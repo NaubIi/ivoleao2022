@@ -168,7 +168,7 @@ td, th {
 }
 
 label {
-	color: aliceblue;
+	color: hwb(253, 0, 76);
 }
 
 form label, form p {
