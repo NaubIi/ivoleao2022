@@ -156,7 +156,7 @@ table {
 }
 
 thead {
-	background: #555555;
+	background: #131212;
 	color: white;
 	font-weight: bold;
 }
@@ -168,7 +168,7 @@ td, th {
 }
 
 label {
-	color: hwb(253, 0, 76);
+	color: rgb(253, 0, 76);
 }
 
 form label, form p {
