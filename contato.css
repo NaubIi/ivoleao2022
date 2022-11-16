@@ -97,7 +97,7 @@ div {
 
 footer {
 	text-align: center;
-	background: #d81c35
+	background: #181414
 
 }
 
@@ -156,7 +156,7 @@ table {
 }
 
 thead {
-	background: #af8a8a;
+	background: #555555;
 	color: white;
 	font-weight: bold;
 }
@@ -168,7 +168,7 @@ td, th {
 }
 
 label {
-	color: rgb(253, 0, 76);;
+	color: aliceblue;
 }
 
 form label, form p {
