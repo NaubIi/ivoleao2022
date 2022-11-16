@@ -185,3 +185,6 @@ form label, form p {
     width: 150px;
     height: 150px;
 }
+.legend{
+	color: rgb(253, 0, 76);
+}
