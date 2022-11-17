@@ -1,0 +1,96 @@
+title {
+    color: rgb(228, 9, 9);
+
+}
+
+body{
+    background: rgb(7, 11, 20)
+
+
+}
+
+/*NAVEGAÇÃO ENTRE PAGINAS*/
+.navegação {
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 400px;
+    margin: 0 auto;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: rgb(247, 3, 3);
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;    
+ }
+
+nav a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+/*HOME*/
+
+h1 {
+    text-align: center;
+    color: rgb(253, 0, 76);
+
+}
+
+h2{
+
+    text-align: center;
+    color: rgb(253, 0, 76);
+}
+
+
+p {
+    text-align: center;
+    color: aliceblue;
+}
+
+.primeira {
+    font-size: 20px;
+}
+
+#Pass {
+    height: 70px;
+}
+
+#KatQ{
+    height: 70px;
+}
+
+#KatW{
+    height: 70px;
+}
+
+#KaTE{
+    height: 70px;
+}
+
+#KatR{
+    height: 70px;
+    text-align: center;
+
+}
+#Katarina{
+    height: 400px;
+}
+
+#logo{
+    height: 200px;
+}
+
+#vio{
+    font-size: 20px; text-align: center;
+}
