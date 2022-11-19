@@ -328,12 +328,31 @@ h3{
 	color: rgb(241, 236, 238);
 }
 
-
-
-.Historia{
-	text-align: center;
+/*css da página inicial*/
+.Katarina {
+    width:50%;
+}
+.Historia {
+    text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
+}
+.Texto p {
+    margin: 0 0 1em;
+}
+.texto strong {
+    font-weight: bold;
+}
+
+.texto em {
+    font-style: italic;
+}
+
+.itens p {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    
 }
 /*css da página inicial*/
 .Katarina {
@@ -361,7 +380,7 @@ h3{
     margin: 0 0 1em;
     
 }
-h4{
+h3{
     font-size: 30px;
     text-align: center;
     color: rgb(253, 0, 76);
