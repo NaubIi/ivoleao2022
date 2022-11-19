@@ -143,14 +143,13 @@ footer {
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
-    clear: left;
-
+    
 }
 h3{
     font-size: 30px;
     text-align: center;
     color: rgb(253, 0, 76);
-    clear: left;
+    
 
 }
 
@@ -160,14 +159,6 @@ h3{
     text-align: center;
     margin: 0 0 1em;
     font-weight: bold;
-    clear: left;
 
 }
-.velho{
 
-    
-        width: 150px;
-        float: left;
-        margin: 0 10px 10px 0;
-    
-}
