@@ -139,6 +139,8 @@ footer {
     font-style: italic;
 }
 
-.imagembeneficios {
-    width: 60%
+.itens p {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
 }
