@@ -153,5 +153,9 @@ h3{
 .itens{
     color: #FFFFFF;
     font-size: 13px;
+    text-align: center;
+    margin: 0 0 1em;
+    font-weight: bold;
+    font-style: italic;
 
 }
