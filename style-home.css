@@ -128,3 +128,13 @@ footer {
     font-size: 2em;
     margin: 0 0 1em;
 }
+.Texto p {
+    margin: 0 0 1em;
+}
+.texto strong {
+    font-weight: bold;
+}
+
+.texto em {
+    font-style: italic;
+}
