@@ -101,3 +101,14 @@ p {
     height: 200px;
 
 }
+
+footer {
+	text-align: center;
+	background: #070707
+
+}
+.copyright {
+	color: #FFFFFF;
+    font-size: 13px;
+
+}
