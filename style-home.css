@@ -4,7 +4,8 @@ title {
 }
 
 body{
-    background: rgb(7, 11, 20)
+    
+    background: linear-gradient(rgb(253, 0, 76),rgb(7, 11, 20));
 
 
 }
